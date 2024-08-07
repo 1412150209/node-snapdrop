@@ -1,5 +1,7 @@
 # node-snapdrop [![CodeQL](https://github.com/Bellisario/node-snapdrop/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Bellisario/node-snapdrop/actions/workflows/codeql-analysis.yml)
 
+本仓库为汉化仓库，夹带一些私货(bushi)
+
 Just the original [Snapdrop](https://github.com/RobinLinus/Snapdrop), with complete Node.js server.
 
 ## Getting started
@@ -7,7 +9,7 @@ Just the original [Snapdrop](https://github.com/RobinLinus/Snapdrop), with compl
 To get started, clone and cd the repo:
 
 ```bash
-git clone https://github.com/Bellisario/node-snapdrop.git && cd node-snapdrop
+git clone https://github.com/1412150209/node-snapdrop.git && cd node-snapdrop
 ```
 
 Install all dependencies with NPM:
